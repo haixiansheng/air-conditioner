@@ -57,10 +57,10 @@ function Home() {
               <Button
                 variant="outlined"
                 onClick={() => {
-                  window.open("https://github.com/haixiansheng/air-conditioner/tree/master", "_blank", "width=300, height=400");
+                  window.open("https://m.tb.cn/h.4s4N4iV?sm=9dc749", "_blank", "width=300, height=400");
                 }}
               >
-                独立遥控器
+                不够爽？搞一个小风扇
               </Button>
             </Box>
           </div>
